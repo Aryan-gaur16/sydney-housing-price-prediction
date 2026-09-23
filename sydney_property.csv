@@ -1,0 +1,104 @@
+suburb,address,sale_price,property_type,bedrooms,bathrooms,parking,land_size,sale_date,days_on_market,sale_method
+Blacktown,"25/8-10 Fourth Avenue, Blacktown",415000,Apartment,2,1,1,NA,16-Sep-26,28,private treaty
+Blacktown,"17 St Pauls Way, Blacktown",828000,Townhouse,3,2,1,103,15-Sep-26,103,private treaty
+Blacktown,"3/130 Newton Road, Blacktown",700000,Townhouse,2,1,1,156,14-Sep-26,61,private treaty
+Blacktown,"4 & 4A Joseph Street, Blacktown",1340000,House,5,2,5,713,14-Sep-26,48,private treaty
+Blacktown,"3/28 Frederick Street, Blacktown",732500,Townhouse,2,1,1,85,14-Sep-26,42,private treaty
+Blacktown,"42 Burke Street, Blacktown",1260000,House,5,3,6,626,11-Sep-26,57,private treaty
+Blacktown,"20/5-9 Fourth Avenue, Blacktown",441000,Apartment,2,1,1,NA,10-Sep-26,52,private treaty
+Blacktown,"36/2-4 Fourth Avenue, Blacktown",415000,Apartment,2,1,1,NA,10-Sep-26,48,private treaty
+Blacktown,"13/8-18 Wallace Street, Blacktown",463000,Apartment,2,2,1,NA,9-Sep-26,78,private treaty
+Blacktown,"9 Cardiff Street, Blacktown",1089000,House,5,2,2,556,8-Sep-26,43,private treaty
+Blacktown,"52 Balmoral Street, Blacktown",1300000,House,4,1,1,696,8-Sep-26,239,private treaty
+Blacktown,"9 Kirkman Road, Blacktown",1070000,House,4,1,2,638,3-Sep-26,22,prior to auction
+Blacktown,"11/130 Main Street, Blacktown",375000,Apartment,1,1,1,NA,2-Sep-26,97,private treaty
+Blacktown,"17 Carinya Street, Blacktown",1600000,House,3,1,1,1182,2-Sep-26,237,private treaty
+Blacktown,"1103/5 Second Avenue, Blacktown",420000,Apartment,2,2,1,NA,1-Sep-26,102,private treaty
+Blacktown,"38-38A Burrell Parade, Blacktown",1480000,House,5,3,4,563,28-Aug-26,107,private treaty
+Blacktown,"73/31 Third Avenue, Blacktown",452000,Apartment,2,2,1,NA,26-Aug-26,87,private treaty
+Blacktown,"39 Burke Street, Blacktown",1500000,House,5,3,2,601,26-Aug-26,98,private treaty
+Blacktown,"19 Stephen Street, Blacktown",1062500,House,3,1,1,575,26-Aug-26,65,private treaty
+Blacktown,"7/45 Lyton Street, Blacktown",805000,Townhouse,2,2,1,229,25-Aug-26,32,private treaty
+Blacktown,"6 Fringe Glade, Blacktown",790000,Townhouse,2,2,1,126,24-Aug-26,32,private treaty
+Blacktown,"903/5 Second Avenue, Blacktown",600000,Apartment,3,2,2,NA,23-Aug-26,289,private treaty
+Blacktown,"63/130 Main Street, Blacktown",443000,Apartment,2,2,2,NA,22-Aug-26,137,private treaty
+Blacktown,"13 Lancaster Street, Blacktown",1900000,House,7,4,6,739,21-Aug-26,25,auction
+Blacktown,"17/3-5 Bruce Street, Blacktown",481000,Apartment,2,2,1,NA,21-Aug-26,53,private treaty
+Blacktown,"79/21-29 Third Avenue, Blacktown",435000,Apartment,2,2,1,NA,20-Aug-26,46,private treaty
+Blacktown,"6 Garden Street, Blacktown",1235000,House,4,2,6,556,20-Aug-26,30,private treaty
+Blacktown,"41/25 Mantaka Street, Blacktown",435000,Apartment,2,1,1,NA,18-Aug-26,50,private treaty
+Blacktown,"41 Dagmar Crescent, Blacktown",880000,House,3,1,2,569,18-Aug-26,43,private treaty
+Blacktown,"94 Lancelot Street, Blacktown",950000,House,3,1,1,562,17-Aug-26,103,private treaty
+Blacktown,"69/25 Mantaka Street, Blacktown",419000,Apartment,2,1,1,NA,17-Aug-26,64,private treaty
+Blacktown,"41 Anthony Street, Blacktown",910000,House,3,1,1,683,17-Aug-26,24,private treaty
+Blacktown,"36/130 Main Street, Blacktown",443000,Apartment,2,2,1,NA,17-Aug-26,169,private treaty
+Blacktown,"45 & 45A Dina Beth Avenue, Blacktown",1250000,House,5,2,4,700,14-Aug-26,52,private treaty
+Blacktown,"2/31 Third Avenue, Blacktown",380000,Apartment,1,1,1,NA,13-Aug-26,35,private treaty
+Ashfield,"15/29 Elizabeth Street, Ashfield",930000,Apartment,2,1,1,NA,11-Sep-26,NA,prior to auction
+Ashfield,"10/8 Webbs Avenue, Ashfield",725000,Apartment,2,1,1,NA,9-Sep-26,30,private treaty
+Ashfield,"6/92-96 Milton Street, Ashfield",820000,Apartment,2,1,1,NA,9-Sep-26,30,private treaty
+Ashfield,"88/2A Brown Street, Ashfield",608000,Apartment,1,1,1,NA,7-Sep-26,8,prior to auction
+Ashfield,"9/8 Cecil Street, Ashfield",1501000,Townhouse,3,1,2,167,7-Sep-26,5,prior to auction
+Ashfield,"17/33-41 Hanks Street, Ashfield",1200000,Townhouse,2,1,1,165,4-Sep-26,19,auction
+Ashfield,"73/18-20 Knocklayde Street, Ashfield",1220000,Apartment,3,2,2,NA,3-Sep-26,22,private treaty
+Ashfield,"703/168 Liverpool Road, Ashfield",530000,Apartment,1,1,1,NA,2-Sep-26,57,private treaty
+Ashfield,"16/33 Alt Street, Ashfield",645000,Apartment,2,1,0,NA,2-Sep-26,89,private treaty
+Ashfield,"19 Griffiths Street, Ashfield",2200000,House,3,1,2,499,29-Aug-26,96,auction
+Ashfield,"7/55 Frederick Street, Ashfield",690000,Apartment,1,1,1,NA,27-Aug-26,33,private treaty
+Ashfield,"15/30 Queen Street, Ashfield",920000,Apartment,2,1,1,NA,25-Aug-26,45,private treaty
+Ashfield,"6/7 Bruce Street, Ashfield",835000,Apartment,2,1,1,NA,21-Aug-26,167,private treaty
+Ashfield,"10/17 Loftus Street, Ashfield",825000,Apartment,2,1,1,NA,18-Aug-26,87,private treaty
+Ashfield,"3/49 Alt Street, Ashfield",935000,Apartment,2,1,1,NA,17-Aug-26,59,auction
+Ashfield,"6/21 Shepherd Street, Ashfield",626000,Apartment,1,1,0,NA,15-Aug-26,101,auction
+Ashfield,"4/45 Chandos Street, Ashfield",877500,Apartment,2,1,1,87,15-Aug-26,108,auction
+Ashfield,"13 William Street, Ashfield",1850000,House,3,1,2,316,14-Aug-26,24,private treaty
+Ashfield,"16 Hedger Avenue, Ashfield",1900000,House,3,2,1,366,12-Aug-26,46,private treaty
+Ashfield,"24/25 Ormond Street, Ashfield",875000,Apartment,2,1,0,NA,NA,NA,private treaty
+Ashfield,"18/33 Alt Street, Ashfield",657000,Apartment,2,1,0,NA,NA,5,private treaty
+Ashfield,"12/34 Alt Street, Ashfield",800000,Apartment,2,1,0,NA,7-Aug-26,36,private treaty
+Ashfield,"2/18 Chandos Street, Ashfield",527000,Apartment,1,1,1,NA,6-Aug-26,28,auction
+Ashfield,"14 Heighway Avenue, Ashfield",1353000,House,3,1,1,NA,31-Jul-26,64,private treaty
+Ashfield,"206/2-6 Thomas Street, Ashfield",602500,Apartment,1,1,1,NA,31-Jul-26,196,private treaty
+Ashfield,"128 Victoria Street, Ashfield",3950000,House,8,4,2,829,31-Jul-26,70,private treaty
+Ashfield,"3/90 Victoria Street, Ashfield",1250000,Apartment,2,1,2,NA,30-Jul-26,17,private treaty
+Ashfield,"95 Holden Street, Ashfield",2000000,House,6,3,2,563,28-Jul-26,39,private treaty
+Ashfield,"311/1 Markham Place, Ashfield",1135000,Apartment,3,2,2,NA,28-Jul-26,76,private treaty
+Ashfield,"9/89 Bland Street, Ashfield",961000,Apartment,2,1,1,1472,25-Jul-26,58,auction
+Ashfield,"8/45 Alt Street, Ashfield",826000,Apartment,2,1,0,NA,24-Jul-26,91,private treaty
+Ashfield,"17/371-377 Liverpool Road, Ashfield",640000,Apartment,1,1,1,NA,24-Jul-26,68,private treaty
+Ashfield,"105/73-75 Norton Street, Ashfield",1400000,Apartment,3,2,2,NA,24-Jul-26,43,private treaty
+Ashfield,"1/43-47 Orpington Street, Ashfield",1190000,Apartment,2,2,1,NA,24-Jul-26,37,private treaty
+Ashfield,"G04/2-4 Murrell Street, Ashfield",670000,Apartment,1,1,1,NA,24-Jul-26,NA,private treaty
+Cronulla,"22 Chelmsford Avenue, Cronulla",4500000,House,5,3,2,558,11-Sep-26,30,private treaty
+Cronulla,"8/16-18 Waratah Street, Cronulla",980000,Apartment,2,1,1,NA,9-Sep-26,22,private treaty
+Cronulla,"27B Connels Road, Cronulla",2740000,Townhouse,4,3,2,NA,9-Sep-26,8,private treaty
+Cronulla,"6/26 Bando Road, Cronulla",630000,Apartment,1,1,0,NA,4-Sep-26,37,private treaty
+Cronulla,"14/4-8 Ocean Street, Cronulla",1057000,Apartment,2,1,1,NA,3-Sep-26,58,private treaty
+Cronulla,"9/27-31 Burke Road, Cronulla",1005000,Apartment,2,1,1,NA,28-Aug-26,67,private treaty
+Cronulla,"2/20-22 Gosport Street, Cronulla",971000,Apartment,2,1,1,NA,28-Aug-26,71,private treaty
+Cronulla,"12/8-10 St Andrews Place, Cronulla",940000,Apartment,2,1,1,NA,27-Aug-26,275,private treaty
+Cronulla,"13/14 Croydon Street, Cronulla",850000,Apartment,2,1,1,NA,20-Aug-26,56,private treaty
+Cronulla,"14B/1 McDonald Street, Cronulla",1200000,Apartment,1,1,1,NA,14-Aug-26,20,private treaty
+Cronulla,"11/78 Elouera Road, Cronulla",725000,Apartment,1,1,1,NA,12-Aug-26,107,private treaty
+Cronulla,"2 Bay Lane, Cronulla",4300000,House,4,2,2,720,10-Aug-26,309,private treaty
+Cronulla,"8/56 Kurnell Road, Cronulla",780000,Apartment,1,1,1,NA,10-Aug-26,51,private treaty
+Cronulla,"4/4 Roker Street, Cronulla",1435000,Apartment,2,1,1,NA,10-Aug-26,42,private treaty
+Cronulla,"10/19-23 Marlo Road, Cronulla",1090000,Apartment,2,1,2,129,8-Aug-26,53,private treaty
+Cronulla,"1/73 Franklin Road, Cronulla",775000,Apartment,2,1,1,NA,7-Aug-26,27,private treaty
+Cronulla,"7/83 Ewos Parade, Cronulla",810000,Apartment,2,1,0,NA,7-Aug-26,38,private treaty
+Cronulla,"8/6 Ewos Parade, Cronulla",717000,Apartment,1,1,0,NA,6-Aug-26,42,auction
+Cronulla,"13/27-31 Burke Road, Cronulla",1100000,Apartment,2,1,1,NA,5-Aug-26,66,private treaty
+Cronulla,"12/19 Arthur Avenue, Cronulla",1050000,Apartment,2,1,0,78,NA,54,private treaty
+Cronulla,"29/23-25 Nerang Road, Cronulla",990000,Apartment,2,1,1,95,29-Jul-26,22,private treaty
+Cronulla,"4/29-33 Tullimbar Road, Cronulla",960000,Apartment,2,1,1,NA,28-Jul-26,14,private treaty
+Cronulla,"404/7-11 Gerrale Street, Cronulla",1202500,Apartment,2,2,1,82,22-Jul-26,92,private treaty
+Cronulla,"5/38 Seaview Street, Cronulla",755000,Apartment,1,1,1,NA,22-Jul-26,76,private treaty
+Cronulla,"22/55-59 Kingsway, Cronulla",850000,Apartment,2,1,1,NA,22-Jul-26,21,prior to auction
+Cronulla,"2 Ischia Street, Cronulla",3725000,House,3,2,5,569,18-Jul-26,56,auction
+Cronulla,"2/13-17 Wyanbah Road, Cronulla",2100000,Townhouse,3,2,3,257,18-Jul-26,23,auction
+Cronulla,"8/123-125 Gerrale Street, Cronulla",1490000,Apartment,2,2,2,138,17-Jul-26,54,private treaty
+Cronulla,"17/16-18 Elizabeth Place, Cronulla",1055000,Apartment,2,1,1,NA,16-Jul-26,51,private treaty
+Cronulla,"6/1 Coast Ave, Cronulla",1680000,Apartment,3,2,1,NA,16-Jul-26,50,private treaty
+Cronulla,"7/33 The Esplanade, Cronulla",695000,Apartment,1,1,0,NA,16-Jul-26,34,private treaty
+Cronulla,"5/18-22 Ocean Street, Cronulla",950000,Apartment,2,1,1,96,14-Jul-26,174,private treaty
+Cronulla,"10/10-14 Allison Road, Cronulla",1256000,Apartment,2,1,2,NA,NA,21,private treaty
